@@ -1,6 +1,6 @@
 # Project 1: 魔塔
 
-![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/main.png)
+![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/mapimage1.png)
 
 ## 项目目标
 
@@ -108,7 +108,7 @@ String secondLine = scanner.nextLine();
 
 ##### 地图输出样例：
 
- ![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/mapOutput.png)
+ ![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/map1.png)
 
 > 注：图片截取自 IntelliJ ，推荐同学们在写代码时使用 IntelliJ 编写、运行程序。
 > ##### 地图输出规则：
@@ -190,7 +190,7 @@ String secondLine = scanner.nextLine();
 
 在命令行中，我们无法使用鼠标来控制，需要通过读取键盘输入来控制勇士的移动。
 
-wasd代表上下左右，f:调查怪物信息
+wasd代表上下左右
 
 有时按照规则可能不能执行指令，这时需要打印出不能执行的原因，让玩家重新输入指令。
 (如：撞墙，打不过敌人，没有对应钥匙，指令错误等)
@@ -207,7 +207,7 @@ wasd代表上下左右，f:调查怪物信息
 
 样例：
 
-![]()
+![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/help.png)
 
 #### 退出
 
@@ -216,6 +216,14 @@ wasd代表上下左右，f:调查怪物信息
 #### 重新开始
 
 玩家可以输入`restart`来重新开始游戏。
+
+#### 怪物手册
+
+玩家可以在游戏中任何时候输入`f`查看怪物手册。怪物手册展示所有怪物简称，怪物名称，生命值，攻击力，防御力，金钱，损血等
+
+样例：
+
+![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/f.png)
 
 #### 悔棋
 
