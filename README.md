@@ -193,10 +193,11 @@ String secondLine = scanner.nextLine();
 wasd代表上下左右，f:调查怪物信息
 
 有时按照规则可能不能执行指令，这时需要打印出不能执行的原因，让玩家重新输入指令。
+(如：撞墙，打不过敌人，没有对应钥匙，指令错误等)
 
 样例：
 
- ![](https://cloud.githubusercontent.com/assets/6532225/18883835/77369402-8517-11e6-8960-3b52d76dacaa.png)
+ ![]()
 
 ### 三、游戏功能
 
@@ -206,7 +207,7 @@ wasd代表上下左右，f:调查怪物信息
 
 样例：
 
-![](https://cloud.githubusercontent.com/assets/6532225/18883902/baa6862a-8517-11e6-8dca-3f26bd755a50.png)
+![]()
 
 #### 退出
 
@@ -222,7 +223,7 @@ wasd代表上下左右，f:调查怪物信息
 
 样例：
 
-![](https://cloud.githubusercontent.com/assets/6532225/18883920/cd567f00-8517-11e6-9f88-f543dc55b5af.png)
+![]()
 
 #### 取消悔棋
 
@@ -230,7 +231,7 @@ wasd代表上下左右，f:调查怪物信息
 
 样例 (接上图)：
 
-![](https://cloud.githubusercontent.com/assets/6532225/18883921/cdfea0cc-8517-11e6-9583-ba9e82458656.png)
+![]()
 
 ## 项目评分
 
