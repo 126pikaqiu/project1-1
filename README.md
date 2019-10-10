@@ -1,6 +1,6 @@
-# Project 1: 斗兽棋
+# Project 1: 魔塔
 
-![](https://cloud.githubusercontent.com/assets/6532225/18883792/44b26bbe-8517-11e6-8f14-896c01d77724.png)
+![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/main.png)
 
 ## 项目目标
 
@@ -108,7 +108,7 @@ String secondLine = scanner.nextLine();
 
 ##### 地图输出样例：
 
- ![](https://cloud.githubusercontent.com/assets/6532225/18883810/5cf840c2-8517-11e6-804c-2c0d016973ed.png)
+ ![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/mapOutput.png)
 
 > 注：图片截取自 IntelliJ ，推荐同学们在写代码时使用 IntelliJ 编写、运行程序。
 > ##### 地图输出规则：
