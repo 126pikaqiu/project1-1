@@ -76,12 +76,12 @@ bbbbbbbbbbbbb
 
 ##### 地图读取方式：
 
-以第三层地图为例，我们将 `map文件夹` 放到项目根目录下(在 IntelliJ IDEA 中，放到与 `src` 同级的目录下)。
+以第二层地图为例，我们将 `map文件夹` 放到项目根目录下(在 IntelliJ IDEA 中，放到与 `src` 同级的目录下)。
 
 首先，使用 `Scanner` 类来读取文件：
 
 ```java
-Scanner scanner = new Scanner(new File("map\2.txt"));
+Scanner scanner = new Scanner(new File("map\1.txt"));
 ```
 
 然后，使用 `Scanner` 的 `nextLine()` 方法获取文件内容：
@@ -98,9 +98,9 @@ String firstLine = scanner.nextLine();
 String secondLine = scanner.nextLine();
 ```
 
-这样我们就得到了地形地图的第二行，`secondLine` 的值是字符串 `"bbsdaqssanbqb"` 。
+这样我们就得到了地形地图的第二行，`secondLine` 的值是字符串 `"bmbasajadaanb"` 。
 
-以此类推，我们可以获取到 `2.txt` 中的所有数据。使用相同的方法可以再获得其他层中的数据。
+以此类推，我们可以获取到 `1.txt` 中的所有数据。使用相同的方法可以再获得其他层中的数据。
 
 最后，根据得到的数据，我们可以将地图输出到命令行中。
 
