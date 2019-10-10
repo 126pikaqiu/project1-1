@@ -81,7 +81,7 @@ bbbbbbbbbbbbb
 首先，使用 `Scanner` 类来读取文件：
 
 ```java
-Scanner scanner = new Scanner(new File("map\1.txt"));
+Scanner scanner = new Scanner(new File("map/1.txt"));
 ```
 
 然后，使用 `Scanner` 的 `nextLine()` 方法获取文件内容：
