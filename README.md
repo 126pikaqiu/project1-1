@@ -19,8 +19,8 @@
 
 运行方式：
 
-1. 下载至自己电脑中。
-2. 将intellj 中命令行 移动到example文件夹所在位置
+1. 下载至自己电脑中（MagicTower.jar，data文件夹以及save文件夹都需要下载，且保证他们都在example目录下）
+2. 打开intellj 点击左下角的 Terminal,通过cd命令 进入到example目录
 ![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/run.png)
 3. 运行命令 `java -jar MagicTower.jar` 。
 
