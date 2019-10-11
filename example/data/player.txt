@@ -1,0 +1,10 @@
+blood=1000
+atk=10
+def=10
+money=0
+red_key_number=0
+blue_key_number=0
+yellow_key_number=0
+floor=0
+x=10
+y=6

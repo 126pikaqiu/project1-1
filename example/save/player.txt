@@ -1,0 +1,10 @@
+blood=992
+atk=12
+def=14
+money=4
+red_key_number=0
+blue_key_number=0
+yellow_key_number=1
+floor=1
+x=10
+y=11
