@@ -20,7 +20,8 @@
 运行方式：
 
 1. 下载至自己电脑中。
-2. 在 `example` 文件夹中打开命令行。
+2. 将intellj 中命令行 移动到example文件夹所在位置
+![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/run.png)
 3. 运行命令 `java -jar MagicTower.jar` 。
 
 ## 项目实现
@@ -192,7 +193,7 @@ wasd代表上下左右
 
 样例：
 
- ![]()
+ ![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/wrong.png)
 
 ### 三、游戏功能
 
@@ -211,10 +212,16 @@ wasd代表上下左右
 #### 查看人物状态
 
 玩家可以输入`status`查看人物状态
+样例：
+
+ ![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/status.png)
 
 #### 重新开始
 
 玩家可以输入`restart`来重新开始游戏。
+样例：
+
+ ![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/restart.png)
 
 #### 怪物手册
 
