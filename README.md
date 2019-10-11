@@ -246,7 +246,7 @@ wasd代表上下左右
 #### 读档
 
 玩家可以输入`load`来读档。
-
+![](https://raw.githubusercontent.com/Java-A-2019/project1/master/image/load.png)
 
 ## 项目评分
 
