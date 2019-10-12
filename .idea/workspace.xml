@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c225cf-5c11-4e0e-995b-6be1c9e0636b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/example/MagicTower.jar" beforeDir="false" afterPath="$PROJECT_DIR$/example/MagicTower.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570843190416</updated>
       <workItem from="1570843191619" duration="8000" />
+      <workItem from="1570877697962" duration="152000" />
     </task>
     <servers />
   </component>
@@ -53,7 +54,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
