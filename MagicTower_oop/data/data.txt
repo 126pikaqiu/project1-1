@@ -1,0 +1,27 @@
+a-Blank-entity.tile.Blank-　-WHITE
+b-Wall-entity.tile.Wall-墙-MAGENTA
+c-GreenSlime-entity.enemy.GreenSlime-绿-GREEN-50-20-1-1
+d-RedSlime-entity.enemy.RedSlime-红-RED-80-30-1-2
+e-BigSlime-entity.enemy.BigSlime-黑-BLACK-200-45-15-5
+f-Bat-entity.enemy.Bat-蝙-BLACK-100-35-5-3
+F-BigBat-entity.enemy.BigBat-大-BLACK-200-60-25-8
+g-SkeletonC-entity.enemy.SkeletonC-骷-BLACK-120-70-0-5
+h-SkeletonB-entity.enemy.SkeletonB-兵-BLACK-200-100-5-8
+i-Upstairs-entity.tile.Upstairs-上-BLACK
+j-Downstairs-entity.tile.Downstairs-下-BLACK
+k-AttackShop-entity.tool.AttackShop-商-RED
+l-DefensiveShop-entity.tool.DefensiveShop-商-BLUE
+m-AttackGem-entity.tool.AttackGem-攻-RED
+n-DefensiveGem-entity.tool.DefensiveGem-防-BLUE
+o-SmallBloodBottle-entity.tool.SmallBloodBottle-瓶-RED
+p-MiddleBloodBottle-entity.tool.MiddleBloodBottle-瓶-BLUE
+q-BigBloodBottle-entity.tool.BigBloodBottle-瓶-YELLOW
+r-YellowKey-entity.tool.YellowKey-钥-YELLOW
+s-YellowDoor-entity.tile.YellowDoor-门-YELLOW
+t-BlueKey-entity.tool.BlueKey-钥-BLUE
+u-BlueDoor-entity.tile.BlueDoor-门-BLUE
+v-RedKey-entity.tool.RedKey-钥-RED
+w-RedDoo-entity.tile.RedDoor-门-RED
+x-SkeletonA-entity.enemy.SkeletonA-魔-BLACK-350-150-25-20
+y-Treasure-entity.tool.Treasure-宝-BLACK
+z-Rock-entity.enemy.Rock-石-BLACK-70-60-50-8
